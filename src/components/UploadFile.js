@@ -27,6 +27,7 @@ class UploadFile extends Component {
           <input
             id="my-upload-btn"
             type="file"
+            accept=".jpg, .jpeg, .png"
             onChange={this.handleLoadLocalFile}
           />
         </label>

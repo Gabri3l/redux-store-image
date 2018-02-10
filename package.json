@@ -1,0 +1,19 @@
+{
+  "name": "redux-store-image",
+  "description": "",
+  "version": "0.0.0",
+  "dependencies": {
+    "redux": "3.6.0",
+    "react-dom": "15.4.2",
+    "react": "15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
